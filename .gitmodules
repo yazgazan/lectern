@@ -1,0 +1,3 @@
+[submodule "tview"]
+	path = tview
+	url = git@github.com:yazgazan/tview.git
