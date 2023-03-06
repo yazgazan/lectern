@@ -8,7 +8,8 @@ require (
 	github.com/meskio/epubgo v0.0.0-20160213181628-90dd5d78197f
 	github.com/rivo/tview v0.0.0-20190721135419-23dc8a0944e4
 	github.com/smartystreets/goconvey v0.0.0-20190731233626-505e41936337 // indirect
-	golang.org/x/net v0.0.0-20190813141303-74dc4d7220e7 // indirect
+	golang.org/x/net v0.8.0 // indirect
+	golang.org/x/sys v0.6.0 // indirect
 )
 
 replace github.com/rivo/tview => ./tview
